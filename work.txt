@@ -2,3 +2,4 @@ Create page setting
 Create Page Home
 Create page web view
 create page video
+create reset password page
