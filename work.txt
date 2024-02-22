@@ -6,3 +6,5 @@ create logout
 Create page forget pass
 create page reset password
 Create hi ao
+Create page
+
