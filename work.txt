@@ -4,4 +4,4 @@ create reset password page
 Create dashboard
 create logout
 Create page forget pass
-
+create page reset password
