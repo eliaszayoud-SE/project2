@@ -1,5 +1,3 @@
-Create page setting
-Create Page Home
 create page video
 create change password page
 create reset password page
